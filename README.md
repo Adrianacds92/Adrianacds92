@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Adriana Costa 👋
 
 
-- 🔭Estagiária de desenvolvimento web - DM
+- 🔭 Estagiária de desenvolvimento web - DM
 - 🌱 Estudando Python
 
 
